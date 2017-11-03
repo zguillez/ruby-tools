@@ -1,5 +1,7 @@
 # ruby-tools
 
+[![Join the chat at https://gitter.im/zguillez/ruby-tools](https://badges.gitter.im/zguillez/ruby-tools.svg)](https://gitter.im/zguillez/ruby-tools?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Dependency Status](https://gemnasium.com/zguillez/ruby-tools.svg)](https://gemnasium.com/zguillez/ruby-tools)
 ![](https://reposs.herokuapp.com/?path=zguillez/ruby-tools)
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
