@@ -17,7 +17,14 @@ PHP module for common tools
 
 	gem 'ruby-tools', '~> 0.0.1'
 
+# Usage:
 
+	#!/usr/bin/ruby
+    
+    require 'ruby-tools'
+    
+    RubyTools.version()
+	
 # Contributing and issues
 
 Contributors are welcome, please fork and send pull requests! If you have any ideas on how to make this project better then please submit an issue or send me an [email](mailto:mail@zguillez.io).
